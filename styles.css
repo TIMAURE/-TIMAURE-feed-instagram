@@ -1,0 +1,23 @@
+*{font-family:Impact;}
+
+body { background: beige; 
+       text-align: center;
+      
+       }
+       .primero{ color: rgb(170, 5, 5); font-size: large;}
+
+.feed{ width: 100%; 
+       display:flex ; 
+       flex-direction: column; align-items: center;
+      
+}
+.titulo{background:rgb(233, 230, 230)
+       ; border-style: groove; margin-bottom: 20px;border-radius: 5px; width: 800px;height: 800px;}
+       
+.a,.b,.c,.d{ color: rgb(170, 5, 5); display:flex; margin-left: 90px;}
+
+p{color: rgb(170, 5, 5); margin: 20px; ;display: flex;}
+
+
+
+
